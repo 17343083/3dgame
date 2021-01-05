@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e8f40e78e337d0b409ce2caded63d72a
+timeCreated: 1568873501
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sun: {fileID: 4159783366355080, guid: 0649a017561372d4e8250a796f9153e7, type: 2}
+  - Mercury: {instanceID: 0}
+  - Venus: {instanceID: 0}
+  - Earth: {fileID: 4673299481316874, guid: e09fbfc4e26bfe946a85fdb28562d32d, type: 2}
+  - Moon: {instanceID: 0}
+  - Mars: {instanceID: 0}
+  - Jupiter: {instanceID: 0}
+  - Saturn: {instanceID: 0}
+  - Uranus: {instanceID: 0}
+  - Neptune: {instanceID: 0}
+  - Pluto: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
